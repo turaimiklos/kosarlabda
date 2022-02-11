@@ -3,4 +3,41 @@
 	top:-39px;
 	left:580px;
 	width:120px;
+	background-color: orange;
+}
+#tovabb:hover
+{
+	background-color: black;
+	color: white;
+}
+
+.abc
+{
+	font-weight: bold;
+}
+
+table, tr, td
+{
+	border: 1px solid white;
+	text-align: center;
+}
+
+#tartalom
+{
+	width: 600px;
+	margin-top: 0px;
+	margin: auto;
+	text-align: justify;
+}
+
+body
+{
+
+	width: auto;
+	margin-top: auto;
+}
+
+#szoveg
+{
+	background-color: orange;
 }
